@@ -13,7 +13,7 @@ currently include:
 - Beetle
 
 example:  
-![Fly Vinyl](./assets/minecraft/mcpatcher/cit/pests vinyls/fly_vinyl.png)  
+![Fly Vinyl](./assets/minecraft/mcpatcher/cit/pests%20vinyls/fly_vinyl.png) 
 
 ## How To Download ##
 [click here](https://github.com/ronvakninja/visual-pests-vinyls/archive/refs/heads/master.zip)
